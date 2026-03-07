@@ -6,7 +6,7 @@ Bu proje, CIFAR-10 veri seti üzerinde K-Nearest Neighbor (K-NN) algoritmasını
 
 
 
-\## 🚀 Proje Özellikleri
+\##  Proje Özellikleri
 
 \- Veri seti diskten `pickle` kütüphanesi ile okunmaktadır.
 
@@ -18,7 +18,7 @@ Bu proje, CIFAR-10 veri seti üzerinde K-Nearest Neighbor (K-NN) algoritmasını
 
 
 
-\## 📊 Deney Sonuçları ve Hiperparametre Analizi
+\##  Deney Sonuçları ve Hiperparametre Analizi
 
 Model performansı, 200 adet test örneği üzerinde farklı $k$ değerleri ve mesafe metrikleri kullanılarak 16 farklı senaryoda test edilmiştir.
 
@@ -62,7 +62,7 @@ Model performansı, 200 adet test örneği üzerinde farklı $k$ değerleri ve m
 
 
 
-\## 🧐 Teknik Değerlendirme
+\##  Teknik Değerlendirme
 
 \- \*\*Optimal K Değeri:\*\* Yapılan testler sonucunda modelin en yüksek genelleme kapasitesine \*\*k=11\*\* noktasında ulaştığı görülmüştür.
 
