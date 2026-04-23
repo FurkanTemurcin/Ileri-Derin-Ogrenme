@@ -6,7 +6,7 @@ Bu repo, Lisansüstü İleri Derin Öğrenme dersi kapsamında hazırlanan çal�
 
 
 
-\## 📚 Ödevler Listesi
+\##  Ödevler Listesi
 
 
 
